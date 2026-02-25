@@ -46,4 +46,10 @@ public class Class_housam {
         System.out.println("Name: " + Name);
         System.out.println("Age: " + Aag);
     }
+    public int hsammsah(int x){
+    
+    return x*x;
+    }
+    
+    
 }

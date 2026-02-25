@@ -11,7 +11,10 @@ public class Git_applic {
 
         Class_mosataf mostaf = new Class_mosataf(1,"Mostaf",22);
         mostaf.PrintInfo();
-            
+        int d=hsm.hsammsah(8);
+        System.out.println(d);
+    
     }
+    
     
 }
