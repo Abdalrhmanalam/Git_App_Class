@@ -1,0 +1,6 @@
+package git_applic;
+public class Class_mostafa {
+    public int Id ;
+    public String Name;
+    public int Age;
+}
