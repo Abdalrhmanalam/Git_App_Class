@@ -26,6 +26,11 @@ This is a **Java** project that demonstrates how to create and use classes, with
                                                                                                           cd Git_App_Class
                                                                                                           javac Main.java
                                                                                                           java Main
-1. **انسخ المستودع** | Clone the repository
+### اسماء اعضاء الفريق
+### عبدالرحمن العم
+### مصطفى العم
+### حسام الدين طارق حماد
+### مصعب العميري
+### يحيى عيقل
    ```bash
    git clone https://github.com/Abdalrhmanalam/Git_App_Class.git
