@@ -32,5 +32,7 @@ This is a **Java** project that demonstrates how to create and use classes, with
 ### حسام الدين طارق حماد
 ### مصعب العميري
 ### يحيى عيقل
-   ```bash
+
+### صورة عن اJira
+<img width="1119" height="481" alt="image" src="https://github.com/user-attachments/assets/7bbe1ccb-f231-4f30-b06e-bab0cece1db7" />
    git clone https://github.com/Abdalrhmanalam/Git_App_Class.git
