@@ -34,5 +34,6 @@ This is a **Java** project that demonstrates how to create and use classes, with
 ### يحيى عيقل
 
 ### صورة عن اJira
-<img width="1119" height="481" alt="image" src="https://github.com/user-attachments/assets/7bbe1ccb-f231-4f30-b06e-bab0cece1db7" />
+<img width="1126" height="469" alt="image" src="https://github.com/user-attachments/assets/e2e96005-c8eb-4a77-a97a-089d0b25c56e" />
+
    git clone https://github.com/Abdalrhmanalam/Git_App_Class.git
